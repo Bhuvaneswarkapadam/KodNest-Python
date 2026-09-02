@@ -20,8 +20,6 @@ My career goal is to become a Python Developer.
 
 ## What I Understood Today
 
-Complete these sentences:
-
 Programming means:Giving instructions to a computer to perform a specific task.
 
 Python is: A programming language used to create applications and solve problems.
