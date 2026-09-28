@@ -16,3 +16,13 @@ print(s)
 
 strs = " My name is \"bhuvaneswar\" from \'bangalore\'studing in \'''kodnest\'''!"
 print(strs)
+
+
+a = "hello"
+b = "world"
+c = a + " " + b
+# print (a .concat(b))
+print(c)
+
+
+
