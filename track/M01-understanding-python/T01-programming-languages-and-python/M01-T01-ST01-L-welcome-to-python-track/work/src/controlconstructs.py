@@ -2,10 +2,10 @@
 
 #if statement
 #Write a Python program to check whether a person is eligible to vote. If the age is 18 or above, print "Eligible to vote".
-age = int(input("Enter your age: "))
+'''age = int(input("Enter your age: "))
 
 if age >= 18:
-    print("Eligible to vote")
+    print("Eligible to vote")'''
 #if-else statement
 #Write a Python program to check whether a person is eligible to vote or not. If the age is 18 or above, print "Eligible to vote", otherwise print "Not Eligible to vote".
 '''age = int(input("Enter your age: "))
